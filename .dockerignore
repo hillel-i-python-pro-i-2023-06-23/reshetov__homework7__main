@@ -2,6 +2,6 @@
 **
 
 # Exclude
-!app.py
-!app/main.py
+!run.py
+!files/main.py
 !requirements.txt

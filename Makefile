@@ -1,4 +1,4 @@
-.PHONY: d-homework-i-run
+make d-homework-i-run.PHONY: d-homework-i-run
 # Make all actions needed for run homework from zero.
 d-homework-i-run:
 	@make d-run
