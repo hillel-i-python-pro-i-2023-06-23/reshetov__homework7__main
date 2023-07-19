@@ -61,7 +61,7 @@ def organize_data(humans: T_HUMANS) -> dict:
     for human in humans:
         group = human["group"]
         organized_data[group].append(human["name"])
-        return organized_data
+    return organized_data
 
 
 

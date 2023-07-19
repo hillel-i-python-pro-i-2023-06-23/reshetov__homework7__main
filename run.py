@@ -1,4 +1,4 @@
-from files import main
+from files.main import main
 
 if __name__ == "__main__":
     main()

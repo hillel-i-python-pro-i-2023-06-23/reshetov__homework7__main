@@ -23,4 +23,4 @@ RUN chown ${USER} /dir
 
 USER ${USER}
 
-ENTRYPOINT ["python", "run.py"]
+ENTRYPOINT ["python", "dir/run.py"]
